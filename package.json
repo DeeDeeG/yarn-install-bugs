@@ -1,0 +1,10 @@
+{
+  "name": "my_node_package",
+  "version": "1.0.0",
+  "description": "my demo node package",
+  "main": "index.js",
+  "author": "DeeDeeG",
+  "dependencies": {
+    "lodash": "~4.15.0"
+  }
+}
